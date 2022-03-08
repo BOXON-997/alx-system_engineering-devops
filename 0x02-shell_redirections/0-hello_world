@@ -1,3 +1,2 @@
-#!/bin/bash[F
-[F[B[C[C[C[C[C[C[C[C[C[C[C[
-echo ""[DHello, World"
+#!/bin/bash
+echo ""[“Hello, World”
