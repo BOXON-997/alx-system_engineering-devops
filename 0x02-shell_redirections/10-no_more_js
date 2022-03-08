@@ -1,2 +1,2 @@
 #!/bin/bash
-find .-type[D[D[D[D[D -type f -name ""[D.js" -delete
+find .-type  -type f -name ".js" -delete
