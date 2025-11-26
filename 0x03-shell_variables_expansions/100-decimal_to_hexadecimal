@@ -1,0 +1,3 @@
+#!/bin/bash 
+# convert the decimal to base 16 or Hexadecimal 
+printf '%x\n' "$DECIMAL"
